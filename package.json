@@ -1,0 +1,11 @@
+{
+    "name": "rowric-tracker",
+    "version": "1.0.0",
+    "private": true,
+    "description": "ROWRIC time tracker — work session timer with Google Sheets backend",
+    "type": "module",
+    "scripts": {
+        "dev": "node server.js",
+        "start": "node server.js"
+    }
+}
